@@ -1,6 +1,21 @@
 {
   "dependencies": {
     "fastify": "^2.7.0",
+    "graphql": "^14.4.2",
+    "jsonwebtoken": "^8.5.1",
+    "rollup": "^1.17.0",
     "ws": "^7.1.1"
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/LXSMNSYC/fullstack-starter-kit",
+  "author": "LXSMNSYC",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.2.0",
+    "eslint-plugin-import": "^2.18.2"
   }
 }
