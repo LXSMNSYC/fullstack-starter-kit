@@ -3,7 +3,9 @@
     "fastify": "^2.7.0",
     "graphql": "^14.4.2",
     "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.17.1",
     "rollup": "^1.17.0",
+    "typeorm": "^0.2.18",
     "ws": "^7.1.1"
   },
   "name": "backend",
