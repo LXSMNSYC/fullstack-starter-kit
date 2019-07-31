@@ -2,6 +2,9 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
+  "repository": "https://github.com/LXSMNSYC/fullstack-starter-kit",
+  "author": "LXSMNSYC",
+  "license": "MIT",
   "dependencies": {
     "animejs": "^3.1.0",
     "docz": "^1.2.0",
